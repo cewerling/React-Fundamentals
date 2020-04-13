@@ -19,7 +19,7 @@ const Effects = () => {
 }
 
 export default Effects;
-
+ 
 const SampleEffect = () => {
     const [timerRunning, setTimerRunning] = useState(false);
 
